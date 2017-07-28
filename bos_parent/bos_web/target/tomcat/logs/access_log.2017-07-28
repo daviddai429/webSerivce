@@ -56,3 +56,7 @@
 0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:19:41 +0800] "GET /favicon.ico HTTP/1.1" 404 - http-bio-9090-exec-12 0
 0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:19:41 +0800] "POST /bos/admin/waybill_listByPage HTTP/1.1" 200 130 http-bio-9090-exec-6 600
 0:0:0:0:0:0:0:1 - - [28/Jul/2017:09:36:30 +0800] "GET /bos/ws/waybill?wsdl HTTP/1.1" 200 1603 http-bio-9090-exec-1 380
+0:0:0:0:0:0:0:1 - - [28/Jul/2017:14:47:45 +0800] "GET /bos/ws/waybill?wsdl HTTP/1.1" 200 1603 http-bio-9090-exec-8 80
+127.0.0.1 - - [28/Jul/2017:15:07:22 +0800] "POST /bos/ws/waybill?wsdl HTTP/1.1" 200 682 http-bio-9090-exec-1 285
+127.0.0.1 - - [28/Jul/2017:15:09:25 +0800] "POST /bos/ws/waybill?wsdl HTTP/1.1" 200 682 http-bio-9090-exec-5 39
+127.0.0.1 - - [28/Jul/2017:15:11:05 +0800] "POST /bos/ws/waybill?wsdl HTTP/1.1" 200 682 http-bio-9090-exec-2 34

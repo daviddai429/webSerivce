@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Spring" type="spring">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/eclipse/jee-neon/Eclipse.app/Contents/Eclipse/dropins/ssh-schemas_1.0.0.201704142346.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
