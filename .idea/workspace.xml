@@ -1,529 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="25738369-694d-40ea-8786-f52b3a92db2b" name="Default" comment="自动计算盘盈盘亏，未完成页面自动勾选">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/daviddai.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_8_2.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/artifacts/bos_web_war.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/artifacts/bos_web_war_exploded.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__antlr_antlr_2_7_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__asm_asm_3_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__asm_asm_commons_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__asm_asm_tree_3_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__com_alibaba_fastjson_1_1_37.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__com_oracle_ojdbc6_11_2_0_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__com_sun_xml_bind_jaxb_core_2_2_10_b140310_1920.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__com_sun_xml_bind_jaxb_impl_2_2_10_b140310_1920.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__commons_io_commons_io_2_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__jstl_jstl_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__junit_junit_4_9.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__log4j_log4j_1_2_12.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__ognl_ognl_3_0_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_core_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_soap_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_bindings_xml_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_databinding_jaxb_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_jaxws_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_frontend_simple_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_transports_http_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_addr_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_ws_policy_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_cxf_cxf_rt_wsdl_3_0_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_geronimo_specs_geronimo_jta_1_1_spec_1_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_neethi_neethi_3_0_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_struts_struts2_core_2_3_24.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_struts_struts2_spring_plugin_2_3_24.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_struts_xwork_xwork_core_2_3_24.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_apache_ws_xmlschema_xmlschema_core_2_1_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_codehaus_woodstox_woodstox_core_asl_4_4_0.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_freemarker_freemarker_2_3_22.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_1.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_hibernate_common_hibernate_commons_annotations_5_0_1_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_hibernate_hibernate_core_5_0_7_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_hibernate_javax_persistence_hibernate_jpa_2_1_api_1_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_javassist_javassist_3_18_1_GA.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_jboss_jandex_2_0_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_orm_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_test_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__wsdl4j_wsdl4j_1_6_3.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/libraries/Maven__xml_resolver_xml_resolver_1_2.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/misc.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/modules.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.idea/workspace.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/.settings/org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/bos_biz.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/META-INF/maven/cn.itcast.bos/bos_biz/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/META-INF/maven/cn.itcast.bos/bos_biz/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/applicationContext_biz.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/applicationContext_tx.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/cn/itcast/bos/biz/IBaseBiz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/cn/itcast/bos/biz/IWaybillBiz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/cn/itcast/bos/biz/IWaybilldetailBiz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/cn/itcast/bos/biz/impl/BaseBiz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/cn/itcast/bos/biz/impl/WaybillBiz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/classes/cn/itcast/bos/biz/impl/WaybilldetailBiz.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/test-classes/applicationContext_test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/test-classes/cn/itcast/bos/test/WaybillTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_biz/target/test-classes/cn/itcast/bos/test/WaybilldetailTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/.settings/org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/bos_dao.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/META-INF/maven/cn.itcast.bos/bos_dao/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/META-INF/maven/cn.itcast.bos/bos_dao/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/applicationContext_dao.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/applicationContext_datasource.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/cn/itcast/bos/dao/IBaseDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/cn/itcast/bos/dao/IWaybillDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/cn/itcast/bos/dao/IWaybilldetailDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/cn/itcast/bos/dao/impl/BaseDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/cn/itcast/bos/dao/impl/WaybillDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/classes/cn/itcast/bos/dao/impl/WaybilldetailDao.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/test-classes/applicationContext_test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/test-classes/cn/itcast/bos/test/WaybillTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_dao/target/test-classes/cn/itcast/bos/test/WaybilldetailTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/.settings/org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/bos_entity.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/target/classes/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/target/classes/META-INF/maven/cn.itcast.bos/bos_entity/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/target/classes/META-INF/maven/cn.itcast.bos/bos_entity/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/target/classes/cn/itcast/bos/entity/Waybill.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/target/classes/cn/itcast/bos/entity/Waybilldetail.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/target/classes/cn/itcast/bos/entity/waybill.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_entity/target/classes/cn/itcast/bos/entity/waybilldetail.hbm.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_parent.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.classpath" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.project" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/.jsdtscope" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/org.eclipse.jdt.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/org.eclipse.m2e.core.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/org.eclipse.wst.common.component" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/org.eclipse.wst.common.project.facet.core.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/org.eclipse.wst.jsdt.ui.superType.container" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/org.eclipse.wst.jsdt.ui.superType.name" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/.settings/org.eclipse.wst.validation.prefs" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/bos_web.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/applicationContext_action.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/applicationContext_cxf.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/cn/itcast/bos/action/BaseAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/cn/itcast/bos/action/WaybillAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/cn/itcast/bos/action/WaybilldetailAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/cn/itcast/bos/ws/IWaybillWs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/cn/itcast/bos/ws/impl/WaybillWs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/classes/struts.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/antlr-2.7.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/aopalliance-1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/asm-3.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/asm-commons-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/asm-tree-3.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/aspectjweaver-1.8.7.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/bos_biz-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/bos_dao-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/bos_entity-0.0.1-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/commons-fileupload-1.3.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/commons-io-2.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/commons-lang3-3.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/commons-logging-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-core-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-bindings-soap-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-bindings-xml-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-databinding-jaxb-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-jaxws-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-frontend-simple-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-transports-http-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-ws-addr-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-ws-policy-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/cxf-rt-wsdl-3.0.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/dom4j-1.6.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/fastjson-1.1.37.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/freemarker-2.3.22.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/geronimo-jta_1.1_spec-1.1.1.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-commons-annotations-5.0.1.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-core-5.0.7.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/hibernate-jpa-2.1-api-1.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/jandex-2.0.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/javassist-3.18.1-GA.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-core-2.2.10-b140310.1920.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/jaxb-impl-2.2.10-b140310.1920.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/jboss-logging-3.3.0.Final.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/jstl-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/log4j-1.2.12.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/mysql-connector-java-5.1.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/neethi-3.0.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/ognl-3.0.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/ojdbc6-11.2.0.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-api-1.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/slf4j-log4j12-1.6.6.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-aop-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-beans-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-context-support-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-core-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-expression-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-jdbc-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-orm-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-test-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-tx-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/spring-web-4.2.4.RELEASE.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/stax2-api-3.1.4.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/struts2-core-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/struts2-spring-plugin-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/woodstox-core-asl-4.4.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/wsdl4j-1.6.3.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/xml-apis-1.0.b2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/xml-resolver-1.2.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/xmlschema-core-2.1.0.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/lib/xwork-core-2.3.24.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/WEB-INF/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/js/crud.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/easyloader.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/jquery.easyui.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/jquery.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/jquery.serializejson.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-af.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-ar.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-bg.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-ca.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-cs.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-cz.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-da.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-de.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-el.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-en.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-es.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-fr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-it.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-jp.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-nl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-pl.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-pt_BR.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-ru.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-sv_SE.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-tr.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-zh_CN.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/locale/easyui-lang-zh_TW.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/black/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/bootstrap/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/default/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/gray/window.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icon.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/Excel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/alert-red.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/back.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/cancel.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/cut.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/edit_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/edit_remove.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/filesave.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/filter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/help.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/mini_add.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/mini_edit.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/mini_refresh.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/no.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/ok.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/pencil.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/print.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/redo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/reload.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/search.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/sum.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/tip.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/icons/undo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/accordion.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/calendar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/combo.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/combobox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/datagrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/datebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/dialog.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/easyui.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/Thumbs.db" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/accordion_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/blank.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/calendar_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/combo_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/datagrid_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/datebox_arrow.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/layout_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/linkbutton_bg.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/loading.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/menu_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/messager_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/pagination_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/panel_tools.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/searchbox_button.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/slider_handle.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/spinner_arrows.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/tabs_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/tree_icons.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/images/validatebox_warning.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/layout.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/linkbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/menu.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/menubutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/messager.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/pagination.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/panel.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/progressbar.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/propertygrid.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/searchbox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/slider.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/spinner.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/splitbutton.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/tabs.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/tooltip.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/tree.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/ui/themes/metro/validatebox.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/waybill.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/bos_web-0.0.1-SNAPSHOT/admin/waybilldetail.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/applicationContext_action.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/applicationContext_cxf.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/cn/itcast/bos/action/BaseAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/cn/itcast/bos/action/WaybillAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/cn/itcast/bos/action/WaybilldetailAction.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/cn/itcast/bos/ws/IWaybillWs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/cn/itcast/bos/ws/impl/WaybillWs.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/classes/struts.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/m2e-wtp/web-resources/META-INF/MANIFEST.MF" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/m2e-wtp/web-resources/META-INF/maven/cn.itcast.bos/bos_web/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/m2e-wtp/web-resources/META-INF/maven/cn.itcast.bos/bos_web/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/test-classes/applicationContext_test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/test-classes/cn/itcast/bos/test/WaybillTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/test-classes/cn/itcast/bos/test/WaybilldetailTest.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/tomcat/conf/logging.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/tomcat/conf/tomcat-users.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/tomcat/conf/web.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/tomcat/logs/access_log.2017-07-27" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bos_parent/bos_web/target/tomcat/logs/access_log.2017-07-28" afterPath="" />
+    <list default="true" id="25738369-694d-40ea-8786-f52b3a92db2b" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/erp_parent" afterPath="$PROJECT_DIR$/erp_parent" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/erp_web_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/erp_web_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_2_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_shiro_shiro_core_1_2_3.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/erp_parent/erp_entity/target/" />
@@ -626,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/erp_parent/erp_web/src/main/webapp/js/inventory.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="165">
-              <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+              <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
               <folding />
             </state>
           </provider>
@@ -720,6 +199,11 @@
     </replaceStrings>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="daviddai &lt;18766253119@163.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
@@ -1744,7 +1228,7 @@
       <workItem from="1502017325981" duration="5611000" />
       <workItem from="1502023063057" duration="2059000" />
       <workItem from="1502243004555" duration="527000" />
-      <workItem from="1502243537557" duration="409000" />
+      <workItem from="1502243537557" duration="736000" />
     </task>
     <task id="LOCAL-00001" summary="完成采购订单退货">
       <created>1502007394460</created>
@@ -1753,7 +1237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1502007394460</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="自动计算盘盈盘亏，未完成页面自动勾选">
+      <created>1502244269104</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1502244269105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1780,7 +1271,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="132385000" />
+    <option name="totallyTimeSpent" value="132712000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1793,6 +1284,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="593" y="23" width="687" height="729" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1815,7 +1307,7 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32967034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17829457" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17829457" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2129528" sideWeight="0.50549453" order="4" side_tool="true" content_ui="tabs" />
@@ -1894,7 +1386,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="完成采购订单退货" />
-    <option name="LAST_COMMIT_MESSAGE" value="完成采购订单退货" />
+    <MESSAGE value="自动计算盘盈盘亏，未完成页面自动勾选" />
+    <option name="LAST_COMMIT_MESSAGE" value="自动计算盘盈盘亏，未完成页面自动勾选" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -2306,7 +1799,7 @@
     <entry file="file://$PROJECT_DIR$/erp_parent/erp_web/src/main/webapp/js/inventory.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
-          <caret line="11" column="33" lean-forward="true" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="33" />
+          <caret line="11" column="31" lean-forward="true" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
           <folding />
         </state>
       </provider>
